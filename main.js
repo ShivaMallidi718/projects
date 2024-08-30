@@ -6,7 +6,8 @@ const projects = [
     { name: 'Quiz', link: 'https://ShivaMallidi718.github.io/quiz'},
     { name: 'Chat', link: 'https://ShivaMallidi718.github.io/chat'},
     { name: 'Rock Paper Scissor', link: 'https://ShivaMallidi718.github.io/rock-paper-scissor'},
-    { name: 'Color Color', link: 'https://ShivaMallidi718.github.io/random-colors'}
+    { name: 'Color Color', link: 'https://ShivaMallidi718.github.io/random-colors'},
+    { name: 'Country Names', link: 'https://ShivaMallidi718.github.io/country'}
 ];
 projects.forEach((project)=>{
     const projectDiv = document.createElement("div");
