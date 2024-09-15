@@ -2,7 +2,7 @@ const container = document.getElementById("container");
 const projects = [
     { name: 'Hello World', link: 'https://ShivaMallidi718.github.io/hello-world'},
     { name: 'Dice', link: 'https://ShivaMallidi718.github.io/dice'},
-    { name: 'Time', link: 'https://ShivaMallidi718.github.io/time'},
+    { name: 'QR Generator', link: 'https://qr-code-six-ochre.vercel.app'},
     { name: 'Quiz', link: 'https://ShivaMallidi718.github.io/quiz'},
     { name: 'Chat Frontend', link: 'https://ShivaMallidi718.github.io/chat'},
     { name: 'Rock Paper Scissor', link: 'https://ShivaMallidi718.github.io/rock-paper-scissor'},
